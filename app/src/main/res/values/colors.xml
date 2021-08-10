@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#020001</color>
+    <color name="c1">#5A1A0A</color>
+
+
+    <color name="light">#a9e2385a</color>
+    <color name="red">#b71c1c</color>
+    <color name="blue">#003ffe</color>
+    <color name="pass">#9c552c52</color>
+    <color name="pass14">#9c552c52</color>
+
+    <color name="word_1">#FF5722</color>
+    <color name="word_2">#076D0D</color>
+
+    <color name="end_1">#B0FF5722</color>
+    <color name="end_2">#076D0D</color>
+
+    <color name="lose">#053D22</color>
+
+</resources>

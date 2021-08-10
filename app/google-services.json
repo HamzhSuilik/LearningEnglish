@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "768512744103",
+    "firebase_url": "https://einglish-80600.firebaseio.com",
+    "project_id": "einglish-80600",
+    "storage_bucket": "einglish-80600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768512744103:android:2e19ae023ff73f55",
+        "android_client_info": {
+          "package_name": "einglish.edu.hz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768512744103-1sdpvj522hgf6kqq075o6d434e7qi4tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYqBsld6hDpjuchd-WeSP6pXAel2fhM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768512744103-1sdpvj522hgf6kqq075o6d434e7qi4tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

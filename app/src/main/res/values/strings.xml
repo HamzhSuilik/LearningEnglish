@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">تعلم اللغة الإنجليزية</string>
+
+    <string-array name="word_ad">
+        <item>ca-app-pub-4147482011986095/4008747833</item>
+        <item>ca-app-pub-4147482011986095/4008747833</item>
+    </string-array>
+
+    <string-array name="test_ad">
+        <item>ca-app-pub-4147482011986095/7001634883</item>
+        <item>ca-app-pub-4147482011986095/7001634883</item>
+    </string-array>
+
+</resources>
